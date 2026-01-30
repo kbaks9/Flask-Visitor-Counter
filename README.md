@@ -5,7 +5,8 @@ This repository contains a lightweight Flask-based web application that records 
 The root endpoint presents a welcome page, while a separate endpoint is responsible for incrementing and showing the total number of visits.
 
 Visitor counter preview:
-https://github.com/user-attachments/assets/d96a6ab5-aaa4-45e1-9d15-f4c6ec769a13
+![counter](https://github.com/user-attachments/assets/7881daee-2f58-41d3-b4dd-fbdee0205627)
+
 
 ---
 
